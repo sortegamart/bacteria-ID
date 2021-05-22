@@ -3,7 +3,7 @@ Reto Identificación rápida de bacterias patógenas mediante espectroscopia Ram
 
 - Hito 1:
 
-  En el fichero IdentificacionBacterias.ipynb se muestran los distintos modelos entrenaos para la detección de bacterias patógenas:
+  En el fichero IdentificacionBacterias.ipynb se muestran los distintos modelos entrenados para la detección de bacterias patógenas:
     - Regresión Logística con PCA
     - Regresión logistica
     - TreeCalsifier con PCA
@@ -18,6 +18,6 @@ Reto Identificación rápida de bacterias patógenas mediante espectroscopia Ram
   
 - Hito 2:
 
-  En el fichero SVC_Model_Saved_intervalos_ruido.ipynb se muestran los resultados obtenidos al aplicar ruido en distintos intervalos, y con distinta intensidad, a partir de los datos del dataset X_reference y con SVC pre-entrenada, a los datos previamente se aplica PCA de 90 componentes.
+  En el fichero SVC_Model_Saved_intervalos_ruido.ipynb se muestran los resultados obtenidos al aplicar ruido en distintos intervalos y con distinta intensidad, a partir de los datos del dataset X_reference y con SVC pre-entrenada, a los datos previamente se aplica PCA de 90 componentes.
   
   De forma adicional, en el fichero Prueba_CNN_+_ruido.ipynb se muestran los resultados de aplicar intervalos de ruido con el modelo CNN
